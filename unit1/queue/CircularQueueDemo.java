@@ -129,6 +129,4 @@ public class CircularQueueDemo {
         sc.close(); // Close the scanner
     }
 }
- {
-    
-}
+  
